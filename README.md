@@ -1,6 +1,6 @@
 # CalcApp 🧮
 
-NeoCalc is a modern, responsive, and user-friendly calculator built using **HTML, CSS, and JavaScript**.  
+CalcApp is a modern, responsive, and user-friendly calculator built using **HTML, CSS, and JavaScript**.  
 This project focuses on clean UI, smooth interactions, and core JavaScript logic, making it ideal for beginners and frontend practice.
 
 ---
