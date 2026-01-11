@@ -21,4 +21,8 @@ This project focuses on clean UI, smooth interactions, and core JavaScript logic
 
 - **HTML5** – Structure and layout  
 - **CSS3** – Styling and responsiveness  
-- **JavaScript (Vanilla JS)** – Calculator logic and DOM handling  
+- **JavaScript (Vanilla JS)** – Calculator logic and DOM handling
+
+## 📸 Project Preview
+
+![Calculator Preview](preview.jpeg)
